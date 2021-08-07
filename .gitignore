@@ -1,4 +1,5 @@
 node_modules
 app
 Source
-packge-lock.json
+package-lock.json
+.gitignore
